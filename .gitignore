@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+backend/node_modules
+client/.eslintcache
+client/node_modules
